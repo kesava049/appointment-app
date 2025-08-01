@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Kesava",
+    "specialization": "Cardiology",
+    "image": "/doc.webp",
+    "availability": "Available Today",
+    "schedule": ["Mon: 9am-5pm", "Wed: 10am-4pm"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Vasu",
+    "specialization": "Dermatology",
+    "image": "/doc.webp",
+    "availability": "On Leave",
+    "schedule": ["Tue: 10am-6pm", "Thu: 10am-3pm"]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Puneeth",
+    "specialization": "Pediatrics",
+    "image": "/doc.webp",
+    "availability": "Fully Booked",
+    "schedule": ["Mon: 8am-2pm", "Fri: 9am-1pm"]
+  },{
+    "id": 4,
+    "name": "Dr. Lokesh",
+    "specialization": "Oncologist",
+    "image": "/doc.webp",
+    "availability": "Available Today",
+    "schedule": ["Tue: 10am-6pm", "Thu: 10am-3pm"]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sumanth",
+    "specialization": "Gastroenterologist",
+    "image": "/doc.webp",
+    "availability": "Fully Booked",
+    "schedule": ["Mon: 8am-2pm", "Fri: 9am-1pm"]
+  },{
+    "id": 6,
+    "name": "Dr. Reddy",
+    "specialization": "Orthopedics",
+    "image": "/doc.webp",
+    "availability": "Available Today",
+    "schedule": ["Tue: 10am-6pm", "Thu: 10am-3pm"]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Prasad",
+    "specialization": "Neurologist",
+    "image": "/doc.webp",
+    "availability": " On Leave",
+    "schedule": ["Mon: 8am-2pm", "Fri: 9am-1pm"]
+  }
+]
