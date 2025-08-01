@@ -66,24 +66,25 @@ postcss.config.js
 tsconfig.json
 package.json
 README.md
+```
 
 
 ## 🚀 Getting Started
 
-- Clone and Install
+1. **Clone the repository**:
 
 ```sh
-bash
-git clone https://github.com/your-username/appointment-app.git
-cd appointment-app
-npm install
-Run Locally
+  git clone https://github.com/kesava049/appointment-app.git
+  cd appointment-app
+  npm install
 ```
 
+2. **Run the next-app**:
+
 ```sh
-bash
-npm run dev
-Open http://localhost:3000.
+  bash
+  npm run dev
+  Open http://localhost:3000.
 ```
 
 ## ⚡️ How It Works
